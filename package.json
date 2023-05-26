@@ -1,11 +1,12 @@
 {
   "name": "vue-pagin8",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": "https://github.com/F4RAN/vue-pagin8",
   "bugs": {
     "url": "https://github.com/F4RAN/vue-pagin8/issues",
     "email": "f4ran@vitalize.dev"
   },
+  "license": "MIT",
   "description": "Vue pagination using beautiful and simple methods",
   "main": "dist/vue-pagin8.ssr.js",
   "browser": "dist/vue-pagin8.esm.js",
@@ -16,8 +17,11 @@
     "src/**/*.vue",
     "README.md"
   ],
+  "author": "F4RAN <f4ran@vitalize.dev> (https://github.com/F4RAN)",
   "keywords": [
     "vue",
+    "vue-paginate",
+    "vue-pagination",
     "paginate",
     "pagination",
     "simple paginate",

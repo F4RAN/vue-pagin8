@@ -1,5 +1,5 @@
 # Vue Pagin8
-Simple and bautiful Vue 2 pagination component (Vue 3 Comming soon)
+Simple and bautiful Vue 2 pagination component ([Vue 3 Here](https://www.npmjs.com/package/vue3-pagin8))
 
 This pagination component can be used by client which changes the page with arrows or input
 
