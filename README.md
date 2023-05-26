@@ -13,6 +13,11 @@ for install vue-pagin8 you must run the following command in your command-line:
 npm install vue-pagin8
 ```
 
+## Demo
+
+Coming Soon
+
+
 ## Import Component-level
 
 You should just import the component and use it.
