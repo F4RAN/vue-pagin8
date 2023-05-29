@@ -8,7 +8,7 @@
 ![telegram-cloud-photo-size-4-6023883429155814454-m](https://github.com/F4RAN/vue3-pagin8/assets/25338592/b0cee1b8-496d-4a07-adfb-1a399e708453)
 ![telegram-cloud-photo-size-4-6026135228969500601-m](https://github.com/F4RAN/vue3-pagin8/assets/25338592/af798d9e-9adb-44b4-a73d-b8d86f0573ba)
 
-Simple and bautiful Vue 2 pagination component ([Vue 3 Here](https://www.npmjs.com/package/vue3-pagin8))
+Simple and beautiful Vue 2 pagination component ([Vue 3 Here](https://www.npmjs.com/package/vue3-pagin8))
 
 This pagination component can be used by client which changes the page with arrows or input
 
